@@ -11,4 +11,9 @@ package booklist;
  */
 public class GitClass {
     
+   public void message(){
+       System.out.println("I am using git");
+   }
+    
+    
 }
